@@ -1,6 +1,6 @@
 {
   "name": "vpay-tj",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "h5移动模拟支付宝数字键盘",
   "main": "index.js",
   "private": false,
@@ -10,7 +10,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "vapy"
+  ],
   "author": "汤健",
   "license": "ISC"
 }
